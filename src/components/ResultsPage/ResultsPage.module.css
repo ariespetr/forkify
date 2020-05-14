@@ -1,0 +1,13 @@
+.results__pages {
+    margin-top: 3rem;
+    padding: 0 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .results__pages::after {
+    content: "";
+    display: table;
+    clear: both;
+} */

@@ -1,0 +1,12 @@
+.results {
+    padding: 3rem 0;
+}
+
+.results__btn--prev {
+    float: left;
+    flex-direction: row-reverse;
+}
+
+.results__btn--next {
+    float: right;
+}
